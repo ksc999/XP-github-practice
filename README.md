@@ -7,7 +7,7 @@
 - 在本地创建一个ABCD.txt，其中ABCD是你自己的名字，在该文本文件中可以填任何你想填的内容
 - 使用git add . 与git commit -m "你自己想要填的消息"将更改保存到你的本地仓库
 - 使用git push origin语句将本地仓库中的内容提交到远程仓库ABCD/XP_github_practice上
-- 使用fetch update按键把ksc999/XP_github_practice里的更新fetch到ABCD/XP_github_practice
+- 使用fetch upstream按键把ksc999/XP_github_practice里的更新fetch到ABCD/XP_github_practice
 - 点击pull request按键，向ksc999/XP_github_practice提出合并申请
 
 ## 自由拓展
