@@ -1,4 +1,4 @@
-# XP_github_practice
+# XP github practice
 清华大学电子系学培部github小练习
 
 ## 基础练习
